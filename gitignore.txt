@@ -1,0 +1,27 @@
+# Eclipse project files
+/.classpath
+/.project
+/.settings/
+
+# Build output
+/bin/
+/target/
+
+# Java class files
+*.class
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific
+/.idea/
+/.vscode/
